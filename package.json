@@ -2,6 +2,7 @@
 	"author": "fccccfb5be7-182b-489b-a49d-d6d970be3c82",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"keywords": ["feecodecamp","tutorials"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
